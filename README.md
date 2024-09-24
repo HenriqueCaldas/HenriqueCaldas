@@ -33,8 +33,8 @@ Aqui, você encontrará uma mistura de projetos pessoais e de cursos de aprendiz
 
 ## 📊 Algumas estatísticas
 <div align="center">  
-  <img width="60%" height="200px" src="https://github-readme-stats.vercel.app/api?username=HenriqueCaldas&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Luis Henrique github stats" /> 
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecaldas&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=HenriqueCaldas&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Luis Henrique github stats" /> 
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecaldas&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 
 <br/>
