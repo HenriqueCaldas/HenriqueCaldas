@@ -4,9 +4,9 @@
 
 ## 👨‍💻 Quem sou eu
 
-🙋‍♂️ Sou **Luis Henrique**, tenho 34 anos e trabalho na área de tecnologia há mais de 3 anos, focando em testes de software. Sou apaixonado por aprender coisas novas.
+🙋‍♂️ Sou **Luis Henrique**, tenho 35 anos e trabalho na área de tecnologia há mais de 4 anos, focando em testes de software. Sou apaixonado por aprender coisas novas.
 
-📖 Atualmente, estou me preparando para me tornar programador, focando em Java, Spring Boot e SQL. Criando APis diversas utilizano java com spring boot e MySQL, logo irei me dedicar a aprender AWS e aprimorar javaScript e HTML.
+📖 Atualmente, estou estudando Testes automatizados e Java com Spring Boot e SQL.
 
 <br/>
 
@@ -23,7 +23,7 @@ Aqui, você encontrará uma mistura de projetos pessoais e de cursos de aprendiz
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+
 
 ## ✨ Tecnologias que tenho interesse:
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
